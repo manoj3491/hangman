@@ -1,0 +1,2 @@
+# this game is build on python 3.10 but it will run on any python version above 2.7
+# no specific library is required to run this script.
